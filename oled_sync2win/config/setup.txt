@@ -1,0 +1,15 @@
+[button1] name:  <ENC_L> send:  {up} + \r\n
+[button2] name:  <ENC_OK> send:  {ok} + \r\n
+[button3] name:  <ENC_R> send:  {dw} + \r\n
+
+[button4] name:  <BT_L> send:  {BT_L} + \r\n
+[button5] name:  <BT_OK> send:  {BT_OK} + \r\n
+[button6] name:  <BT_R> send:  {BT_R} + \r\n 
+
+[button7] name:  <SYNC> send:  {yes} + \r\n
+[button8] name:  <8> send:  {8} + \r\n
+[button9] name:  <Out Of SYNC> send:  {no} + \r\n
+
+[bar1] name:  <bar1> send:  {bar1:} + value + \r\n
+[bar2] name:  <bar2> send:  {bar2:} + value + \r\n
+[bar3] name:  <bar3> send:  {bar3:} + value + \r\n
